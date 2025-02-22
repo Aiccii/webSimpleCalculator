@@ -1,0 +1,20 @@
+#screen {
+    font-size: 50px;
+}
+
+button {
+    padding: 20px;
+}
+
+#btn0 {
+    padding: 20px 75px 20px 75px;
+}
+
+#btnAC {
+    padding: 20px 70px 20px 70px;
+}
+
+#calculator {
+    margin-left: 40%;
+    margin-top: 10%;
+}
